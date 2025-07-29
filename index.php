@@ -8,5 +8,8 @@
 <body>
     <h1>contoh</h1>
     <p>Ini paragraf</p>
+    <ul>
+        <li>niggas</li>
+    </ul>
 </body>
 </html>
