@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>contoh</h1>
+    <p>Ini paragraf</p>
 </body>
 </html>
